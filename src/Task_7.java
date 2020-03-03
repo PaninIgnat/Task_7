@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 public class Task_7 {
     public static void main(String[] args) throws IOException {
 
-        System.out.println("Введитес консоли число:");
+        System.out.println("Введите число:");
 
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
